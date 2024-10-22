@@ -24,11 +24,12 @@
 }
 
 body {
-    background-image: url(wallpaper001.jpg);
+    height: 98vh;
     min-width: 300px;
     max-width: 1276px;
     margin:auto;
     margin-bottom: 30px;
+    background-image: url(wallpaper002.jpg);
 
 
 }
@@ -101,7 +102,7 @@ form input[type=password]:focus{
 
 
 header h1 {
-      color: #ffffff;
+      color: #1e235d;
       font-family: var(--font-destaque);
       font-size: 4em;
       margin-bottom: 20px;
@@ -110,7 +111,7 @@ header h1 {
     }
 
     header {
-  background-image: url(wallpaper001.jpg);
+  
   min-height: 659px;
   text-align: center;
   padding-top: 40px;
